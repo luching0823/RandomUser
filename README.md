@@ -1,0 +1,2 @@
+# RandomUser
+利用JSONDecoder解析api回傳的json資料並放到畫面上
